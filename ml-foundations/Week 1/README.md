@@ -12,3 +12,5 @@ Machine learning library eg:
 Data manupulation library eg:
     pandas - Not suitable for large data sets
     SFrame - Even works on laptops with large data sets
+
+matplotlib
