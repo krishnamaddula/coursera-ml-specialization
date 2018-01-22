@@ -39,3 +39,9 @@ Learning Curves:
 Class probabilities:
     Many classifiers will also provide confidence level
         p(y|x) -> Probability of output y given input x
+
+
+## Revisit majority class classifier concepts..
+Q from quiz??? Which of the following ranges contains the accuracy of the majority class classifier, which simply predicts the majority class on the test_data?
+
+How do you compare the different learned models with the baseline approach where we are just predicting the majority class?
